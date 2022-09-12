@@ -1,0 +1,3 @@
+1,Juan,juan@gmail.com,o+
+2,Laura,laura@gmail.com,o+
+3,Alexander Hernandez Latorre,alhernandez@udemedellin.edu.co,AB-
